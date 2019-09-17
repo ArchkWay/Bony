@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BonesTest</string>
+    <string name="app_name">BoneTest</string>
+    <string name="settings">Settings</string>
+    <string name="create">Create</string>
+    <string name="schedule">Schedule</string>
+    <string name="name_of_event">Name of event</string>
+    <string name="new_event">New event</string>
 </resources>
